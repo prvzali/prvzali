@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @prvzali
+- 👀 I’m interested in IT
+- 🌱 I’m currently learning Service Desk with Coursera
+- 📫 How to reach me ali.bd@me.com
